@@ -1,0 +1,8 @@
+name of the data structures  & sorting algorithms that i'm not  familiar yet :
+*linked list
+*Hash table
+*Tree
+*graph
+
+why?
+because we haven't done any practical exercises yet on  this data structure.
